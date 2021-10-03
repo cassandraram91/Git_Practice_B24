@@ -8,4 +8,6 @@ public class Third {
 
     //this is the third file in setup package of Git_Practice_B24 Project
 
+    double a = 100_000;
+
 }
